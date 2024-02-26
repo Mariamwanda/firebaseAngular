@@ -1,0 +1,28 @@
+aside{
+    
+    width: 66%;
+}
+
+aside .personne{
+    padding: 6px;
+    background-color: blue;
+    border-radius: 100%;
+    color: white;
+}
+
+aside mat-icon{
+    font-size: 25px;
+}
+
+aside span{
+    color: blue;
+}
+
+aside .creer{
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgba(15, 15, 195, 0.12);
+    color: rgb(65, 64, 64);
+    margin: 10px;
+}

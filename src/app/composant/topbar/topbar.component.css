@@ -1,0 +1,15 @@
+nav{
+    width: 98.9vw;
+    border: 1px solid rgba(128, 128, 128, 0.747);
+    color: grey;
+}
+
+nav img{
+    width: 55px;  
+}
+
+nav .souligne{
+    border-bottom: 3px solid blue;
+    position: relative;
+    top: 35px;
+}

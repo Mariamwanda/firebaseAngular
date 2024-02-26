@@ -1,0 +1,38 @@
+h1{
+margin-top: 15px;
+font-size: 1rem;
+font-family: arial;
+}
+.section .text{
+    position: relative;
+    color: blue;
+    font-size: 1.7rem;
+}
+.essaie{
+    background-color: red;
+    position: relative;
+    left: 50vw;
+    width: 20%;
+}
+.section{
+    border-radius: 5px;
+    background-color: white;
+    width: 100%;
+}
+.section .card{
+    border: 1px solid grey;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.section .card img{
+    width: 100%; 
+}
+
+.section .card button{
+    margin-top: 10px;
+    color: white;
+    border-radius: 5px;
+    width: 20vw;
+    background-color: blue;
+}
